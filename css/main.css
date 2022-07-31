@@ -1,6 +1,6 @@
 h1{
     height: 3em;
-    background: url(../img/topback.jpg) no-repeat;
+    background-image: url(../img/topback.jpg);
     color: white;
     text-align: center;
     background-position: center;
