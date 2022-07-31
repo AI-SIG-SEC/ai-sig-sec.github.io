@@ -1,5 +1,8 @@
 h1{
     height: 3em;
     background: url(../img/topback.jpg) no-repeat;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
 }
 
